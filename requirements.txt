@@ -1,0 +1,4 @@
+youtube_dl
+requests
+bs4
+tqdm
