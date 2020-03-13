@@ -11,6 +11,8 @@ $ python -m pip install -r requirements.txt
 $ python main.py
 ```
 ---
+##### Untuk Menunduh Beberapa foto dan video dari sosial media
+---
 
 ### Features
 
