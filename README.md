@@ -1,5 +1,6 @@
 <p align="center"><img src="https://i.ibb.co/s2DTjS6/20200313-142919-picsay.jpg"></p>
 
+![](https://img.shields.io/badge/python-3.8.x-blue)  ![](https://img.shields.io/badge/coded-Ezz--Kun-blueviolet)   ![](https://img.shields.io/badge/%40copyright-2020-orange)   ![https://instagram.com/aditiaze_07](https://img.shields.io/badge/Follow-Me-green)
 ### Install
 ```
 $ pkg install python
@@ -11,3 +12,16 @@ $ python main.py
 ```
 ---
 
+### Features
+
+- [x] Facebook
+- [x] Twitter
+- [x] YouTube
+- [x] Instagram
+- [x] Pinterest
+- [x] Github
+---
+
+### sample Pict
+
+![](https://i.ibb.co/G0knssD/Screenshot-20200313-130918-picsay.png)
